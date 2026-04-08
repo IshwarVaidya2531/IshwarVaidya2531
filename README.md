@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh2602&label=Profile%20views&color=0e75b6&style=flat" alt="IshwarVaidya2531" /> </p>
 
-- 👨‍💻 All of my projects are available at [IshwarVaidya2531](https://github.com/IshwarVaidya2531/)
+- 👨‍💻 All of my projects are available at [IshwarVaidya2531](https://github.com/IshwarVaidya2531?tab=repositories)
 
 - 📫 How to reach me **edv2932001@gamil.com**
 
